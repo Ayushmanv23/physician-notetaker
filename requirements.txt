@@ -1,0 +1,8 @@
+python>=3.8
+jupyter
+spacy
+transformers
+torch
+scikit-learn
+numpy
+pandas
